@@ -79,6 +79,8 @@ Revenue dipped in July (-5.0%) and December (-3.4%).
 
 
 ## Key insights from the Profit view Dashboard
+![Screenshot (94)](https://github.com/user-attachments/assets/0f6e271a-d2fd-440e-8eae-061c9ce74362)
+
 
 **Profit Margin:**
 
